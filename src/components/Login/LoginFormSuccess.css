@@ -1,0 +1,11 @@
+.LoginFormSuccess{
+    width: 927px;
+}
+
+.LoginSuccessTitle{
+    font-family: 'Inter', 'sans-serif';
+    font-size: 30px;
+    font-weight: 500;
+    margin-bottom:10px;
+    color: white;
+}

@@ -1,0 +1,39 @@
+.Login{
+    display: flex;
+    width: 100%;
+    
+}
+
+.LoginTitle{
+    color: #FFFFFF;
+    margin-bottom: 99px;
+    z-index: 1;
+}
+
+.LoginContainer{
+    width: 100%;
+    height: auto;
+    background: #2148C0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+
+.ondas{
+    position: absolute;
+    width: 883.33px;
+    height: 786px;
+    left: 816px;
+    top: 0px;
+
+    background: #264ECA;
+    box-shadow: 0px 4px 43px rgba(0, 0, 0, 0.25);
+
+    z-index: 0;
+
+    border-radius: 77% 23% 50% 50% / 70% 67% 33% 30%;
+    overflow: hidden;
+}
